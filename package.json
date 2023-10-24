@@ -1,0 +1,12 @@
+{
+  "name": "work-flow-test-2",
+  "version": "0.0.1",
+  "description": "This is second new content for the readme file. Attend to add and commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
