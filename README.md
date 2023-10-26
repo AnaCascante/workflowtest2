@@ -1,3 +1,3 @@
 # Git CLI Tutorial
 
-This is second new content for the readme file. Attend to add and commit 
+> This line of text is intended to create a merge conflict. It should not remain in the final version of this file!
